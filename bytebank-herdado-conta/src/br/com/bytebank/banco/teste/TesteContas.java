@@ -21,8 +21,8 @@ public class TesteContas {
 			e.printStackTrace();
 		}
 		
-		System.out.println("Saldo CC = "+cc.getSaldo());
-		System.out.println("Saldo CP = "+cp.getSaldo());
+		System.out.println(cc);
+		System.out.println(cp);
 		
 	}
 	
